@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">PARCIALDAMCARDENAS21100885</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_presupuesto">Presupuesto</string>
+    <string name="menu_seguros">Seguro</string>
+    <string name="menu_hoteles">Hoteles</string>
+    <string name="signIn">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="presupuesto">Presupuesto</string>
+    <string name="terminos">I agree to the Terms of Services and Privacy Politicy</string>
+    <string name="costoVuelo">Costo del vuelo en USD</string>
+    <string name="costoAlojamiento">Costo de alojamiento por noche USD</string>
+    <string name="cantidadNoches">Cantidad de noches</string>
+    <string name="costoComidas">Costo diario de comidas en USD</string>
+    <string name="calcular">Calcular</string>
+</resources>

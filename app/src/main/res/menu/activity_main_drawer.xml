@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navPresupuesto"
+            android:icon="@drawable/baseline_house_24"
+            android:title="@string/menu_presupuesto" />
+        <item
+            android:id="@+id/navSeguros"
+            android:icon="@drawable/baseline_auto_graph_24"
+            android:title="@string/menu_seguros" />
+        <item
+            android:id="@+id/navHoteles"
+            android:icon="@drawable/baseline_person_24"
+            android:title="@string/menu_hoteles" />
+    </group>
+</menu>
